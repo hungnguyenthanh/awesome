@@ -1,6 +1,16 @@
 a new file to fix the issure
 confilct hehehe
+<<<<<<< HEAD
 add new line
 asd
 love your moe
+<<<<<<< HEAD
 from framgia with love
+ad file to you with love
+a
+=======
+from framgia with love
+>>>>>>> 1491ad5... omg
+=======
+ad file to you with love
+>>>>>>> ca0126e... origin with love;
