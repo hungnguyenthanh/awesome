@@ -7,3 +7,5 @@ love your moe
 ad file to you with love
 from framgia with love
 
+fix bug
+
